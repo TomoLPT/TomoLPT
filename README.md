@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TomoLPT
-- 👀 I’m interested in computational design in architecture
+- 👀 I’m interested in computational design in engineering and architecture
 - 🌱 I’m currently learning C++, python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: linkedin.com/in/thomas-lapautre-49b4a6192
